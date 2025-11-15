@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumyojit Sen and I'm passionate about Machine Learning & Data Science
+<h2 align="left">Hi 👋! My name is Soumyojit Sen, and I'm passionate about Machine Learning & Data Science
 
 ###
 
@@ -36,12 +36,6 @@
   </a>
   <a href="soumyojitsen18@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/734334412787023902" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://nextgentechai.slack.com/team/U06A8T03K28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
 
